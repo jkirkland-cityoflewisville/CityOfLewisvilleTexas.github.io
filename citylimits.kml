@@ -15,7 +15,7 @@
 <Folder><name>City_Limits_Polygon</name>
   <Placemark>
 	<name>City of Lewisville</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6495ED</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#City_Limits_Polygon">
 		<SimpleData name="Field Name">Field Value</SimpleData>
 		<SimpleData name="GlobalID">{60A8ADA0-C27E-47B8-992B-E63C766A8FD0}</SimpleData>
